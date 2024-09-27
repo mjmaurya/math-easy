@@ -11,7 +11,7 @@ Here's a README file for your `math-easy` npm module:
 To install the module, use npm:
 
 ```bash
-npm install math-easy
+npm install @mjmaurya/math-easy
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ After installation, you can import and use any of the available functions in you
 ### Example
 
 ```javascript
-const math = require('math-easy');
+const math = require('@mjmaurya/math-easy');
 
 // Factorial of 5
 console.log(math.factorial(5)); // Output: 120

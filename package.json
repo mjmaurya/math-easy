@@ -1,5 +1,5 @@
 {
-  "name": "math-easy",
+  "name": "@mjmaurya/math-easy",
   "version": "1.0.0",
   "description": "A simple math utility library",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "math-easy"
   ],
   "author": "Manoj Kumar",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "jest": "^29.7.0"
   }
