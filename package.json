@@ -1,0 +1,22 @@
+{
+  "name": "math-easy",
+  "version": "1.0.0",
+  "description": "A simple math utility library",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "'kjshs'"
+  },
+  "keywords": [
+    "math-easy"
+  ],
+  "author": "Manoj Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
