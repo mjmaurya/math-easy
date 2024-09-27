@@ -1,6 +1,6 @@
 {
   "name": "@mjmaurya/math-easy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple math utility library",
   "main": "index.js",
   "type": "module",
